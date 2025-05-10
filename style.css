@@ -1,0 +1,42 @@
+h2:hover
+{color: aquamarine;
+    font-style: italic;
+    
+}
+div {border-bottom-color: rgb(186, 54, 21);}
+
+body {
+    background-image: url("paper.gif");
+    background-color: #179369;
+    body {
+        font-family: 'Poppins', sans-serif; Устанавливаем красивый шрифт 
+        color: #333;
+        line-height: 1.6;
+        padding: 20px;
+        background-color: #f9f9f9;
+      }
+  
+      .feature-item {
+        margin-bottom: 15px;
+        display: flex;
+        align-items: center;
+        font-size: 1.1rem;
+      }
+  
+      .green-check {
+        color: #28a745; /* Зелёный цвет */
+        margin-right: 10px;
+        font-size: 1.2rem;
+      }
+     
+ }
+button:hover{
+    color: aquamarine;
+    font-size: 33px;
+}
+
+{
+     background: url(ada.jpg);
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
+}
